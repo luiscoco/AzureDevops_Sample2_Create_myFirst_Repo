@@ -43,3 +43,7 @@ We click on the Repo button
 We click on the drop-down list and select MyWebApi repo
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/e4068998-80b0-4480-bc4f-79aa3b4000a4)
+
+We click on the **Set up build** button
+
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/9abbb4f8-9974-441d-8918-b7358a97b12c)
