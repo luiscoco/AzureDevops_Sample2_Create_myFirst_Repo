@@ -20,11 +20,37 @@ Pay attention the new repo will be initialized with a **main** branch, but when 
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/3b635d55-3706-4ca8-aec9-61da95fc4a70)
 
-
 ## 2. How to create a .NET 8 WebAPI in VSCode and 
 
+Open VSCode and then open a terminal in VSCode.
 
-## 3. Initialize, add files, commit changes and push changet to the Azure DevOps repo
+**Create a new folder for your project and navigate into it**:
+
+```
+mkdir MyWebApi
+cd MyWebApi
+```
+
+**Create a new .NET 8 WebAPI project**:
+
+```
+dotnet new webapi -n MyWebApi
+```
+
+This command creates a new directory named MyWebApi inside your current folder, and then it generates a basic WebAPI project inside this new directory.
+
+**Open your project in VSCode**:
+
+```
+code . -r
+```
+
+The **-r** flag tells VSCode to reload the current window with the contents of the current directory.
+
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/2256bfba-04b9-4cbb-95f1-a8d0ace109a9)
+
+## 3. Initialize a local git repo, add files, commit changes and push changes to the Azure DevOps repo
+
 
 
 ## 4. How to create a new repo in Visual Studio 2022 Community Edition and push the code to Azure DevOps repo
