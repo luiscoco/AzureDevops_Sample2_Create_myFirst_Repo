@@ -236,6 +236,8 @@ See also the information in this URL regarding **Configure and pay for parallel 
 
 https://learn.microsoft.com/en-us/azure/devops/pipelines/licensing/concurrent-jobs?view=azure-devops&tabs=ms-hosted
 
+It takes us **2-3 business days** to respond to your free tier request.
+
 Also we can see the **Pricing for Azure DevOps** in the following URL
 
 https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/
