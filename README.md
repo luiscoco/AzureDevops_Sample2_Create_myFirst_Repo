@@ -8,6 +8,13 @@ If we need to create a new repo inside an existing Project we can navigate to Pr
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/66f3b69f-e6ac-4d55-9e12-153d4ddf90de)
 
+We input the repository type, repo name and gitignore file, then we press the create button
+
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/14d6f476-a0d3-4f01-9d61-f02aad3fa9f5)
+
+Pay attention the new repo will be initialized with a **main** branch, but when after we will push our code from VSCode to the **master** branch
+
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/3b635d55-3706-4ca8-aec9-61da95fc4a70)
 
 
 ## 2. How to create a .NET 8 WebAPI in VSCode and 
