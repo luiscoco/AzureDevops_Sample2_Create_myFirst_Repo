@@ -113,7 +113,30 @@ git branch -M main
 git push -u origin main
 ```
 
-IMPORTANT NOTE: if you've initialized your Azure DevOps repository with some files (like a **README.md** or any other file) that your local repository doesn't have. 
+**IMPORTANT NOTE**: 
+
+if you've initialized your Azure DevOps repository with some files (like a **README.md** or any other file) that your local repository doesn't have,
+
+you need to first pull the changes from the remote repository, resolve any conflicts if they exist, and then push your changes again.
+
+We pull the changes from the repo in Azure DevOps
+
+```
+git pull origin main --allow-unrelated-histories
+```
+
+We add the files and commit them
+
+```
+git add .
+git commit -m "Resolved conflicts between local and remote repositories"
+```
+
+Once the conflicts are resolved and the changes from the remote repository are successfully merged into your local repository, we can push your changes:
+
+```
+git push -u origin main
+```
 
 We verify the new Azure repo with all the pushed changes
 
