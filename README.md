@@ -11,10 +11,7 @@
 ## 3. Initialize, add files, commit changes and push changet to the Azure DevOps repo
 
 
-## 4. How to create Azure DevOps pipeline
-
-
-## 5. How to create a new repo in Visual Studio 2022 Community Edition and push the code to Azure DevOps repo
+## 4. How to create a new repo in Visual Studio 2022 Community Edition and push the code to Azure DevOps repo
 
 We run Visual Studio 2022 and open the solution
 
@@ -34,7 +31,7 @@ https://dev.azure.com/luiscocoenriquez/myFirstProject/_settings/repositories
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/5b60218f-8921-4105-a37d-9c2444ae3d17)
 
-## 6. How to create and run a Pipeline
+## 5. How to create and run a Pipeline
 
 We click on the Repo button
 
