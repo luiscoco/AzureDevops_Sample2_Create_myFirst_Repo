@@ -2,6 +2,11 @@
 
 ## 1. How to create a new repo in my Azure DevOps project
 
+By default when we create a new Project inside one Organization in Azure DevOps a new repo is automatically created.
+
+If we need to create a new repo inside an existing Project we can navigate to Project->Settings->Repositories and press on the Create button
+
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/66f3b69f-e6ac-4d55-9e12-153d4ddf90de)
 
 
 
