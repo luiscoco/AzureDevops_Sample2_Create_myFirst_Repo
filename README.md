@@ -140,7 +140,7 @@ git push -u origin main
 
 We verify the new Azure repo with all the pushed changes
 
-
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/e5ac0c05-a382-4353-a7e9-1e7cb3b82283)
 
 ## 4. How to create a new repo in Visual Studio 2022 Community Edition and push the code to Azure DevOps repo
 
