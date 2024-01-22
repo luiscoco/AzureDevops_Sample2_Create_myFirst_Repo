@@ -98,5 +98,8 @@ To request a free parallelism grant, please fill out the following form https://
 
 If we navigate to this URL: https://aka.ms/azpipelines-parallelism-request
 
+We have to fulfill a form to request Azure DevOps Parallelism Free
+
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/a5aae297-2bc2-402c-9564-c04feff17e80)
 
 
