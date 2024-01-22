@@ -28,6 +28,10 @@ We select the organization, project and the repo name. We press on the Create an
 
 We verify in AzureDevOps the new repo
 
+https://dev.azure.com/organizationName/projectName/_settings/repositories
 
+https://dev.azure.com/luiscocoenriquez/myFirstProject/_settings/repositories
+
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/5b60218f-8921-4105-a37d-9c2444ae3d17)
 
 
