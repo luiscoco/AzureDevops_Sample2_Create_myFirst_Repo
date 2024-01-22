@@ -100,9 +100,21 @@ If we navigate to this URL: https://aka.ms/azpipelines-parallelism-request
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/46edcf6d-20a1-472b-8588-564d385746f2)
 
-We have to fulfill a form to request Azure DevOps Parallelism Free
+We have to fulfill a form to request **Azure DevOps Parallelism Free**
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/a5aae297-2bc2-402c-9564-c04feff17e80)
+
+See also the information in this URL regarding **Configure and pay for parallel jobs**:
+
+https://learn.microsoft.com/en-us/azure/devops/pipelines/licensing/concurrent-jobs?view=azure-devops&tabs=ms-hosted
+
+Also we can see the **Pricing for Azure DevOps** in the following URL
+
+https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/
+
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/ca39d007-3524-4946-af12-27bb22ef9b38)
+
+
 
 Another option is navigate to **Organization Settings** and press on the **Set up billing**
 
