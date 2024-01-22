@@ -49,6 +49,22 @@ The **-r** flag tells VSCode to reload the current window with the contents of t
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/2256bfba-04b9-4cbb-95f1-a8d0ace109a9)
 
+**Test your application (optional)**:
+
+Run your application to ensure everything is working correctly.
+
+```
+dotnet run
+```
+
+By default, your WebAPI will be accessible at
+
+**https://localhost:5001/swagger/index.html**
+
+or 
+
+**http://localhost:5000/swagger/index.html**
+
 ## 3. Initialize a local git repo, add files, commit changes and push changes to the Azure DevOps repo
 
 
