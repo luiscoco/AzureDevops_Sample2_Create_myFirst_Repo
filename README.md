@@ -266,6 +266,14 @@ Now we can navigate to the pipeline and press the **Run pipeline** button
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/57e30578-aaa9-4e39-b525-043242e40c10)
 
+We verify one Jos is running
+
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/3d3a914e-6b62-4cec-9037-3019c8043c80)
+
+We confirm the final Pipeline job result was successfully
+
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/5143e056-c988-489e-bc9d-15e3d2b6fbae)
+
 
 
 
