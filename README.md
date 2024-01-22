@@ -85,16 +85,30 @@ git add .
 git commit -m "Initial commit"
 ```
 
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/28bfff00-9903-4754-9690-4f7781446c83)
+
 **Go to your Azure DevOps project**:
 
 Navigate to your **Azure DevOps portal**. Go to the **Repos** section of your project.
 
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/fb5ca000-d608-40be-b1d5-36f2a6e96dd4)
+
 Create a **new repository** (if you haven't already)
 
-**Git command to push** an existing repository from the command line:
+We navigate to the repo files and we click on the **Clone** button
+
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/bc7305bb-1970-4e32-a69f-652981b963ea)
+
+We copy the **repo URL**:
+
+**https://luiscocoenriquez@dev.azure.com/organizationName/projectName/_git/repoName**
+
+https://luiscocoenriquez@dev.azure.com/luiscocoenriquez/myFirstProject/_git/myfirstrepo
+
+**Git command to push** an existing repository from the command line: 
 
 ```
-git remote add origin <Your-Azure-DevOps-Repo-URL>
+git remote add origin https://luiscocoenriquez@dev.azure.com/luiscocoenriquez/myFirstProject/_git/myfirstrepo
 git branch -M main
 git push -u origin main
 ```
