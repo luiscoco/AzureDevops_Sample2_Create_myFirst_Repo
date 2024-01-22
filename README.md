@@ -252,9 +252,21 @@ We link Azure DevOps billing to our **Azure Subscription**
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/1b3755f4-f8d4-41a0-9529-dedec8dec239)
 
-After linking our Azure Subscription to Azure DevOps we can set the **MS Hoste Parallel job** to **1**
+After linking our Azure Subscription to Azure DevOps we can set the **MS Host Parallel job** to **1** and press the **Save** button
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/5d6c3e3d-d408-42d9-b853-7b013587f7af)
+
+We can verify the MS Host Parallel jobs we updated to 1
+
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/f5df0884-856e-4c6f-9a45-f3768f4a2ce6)
+
+Now we can navigate to the pipeline and press the **Run pipeline** button
+
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/a7e144d5-3e29-4a3b-b0fb-208eb14f1ce1)
+
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/57e30578-aaa9-4e39-b525-043242e40c10)
+
+
 
 
 
