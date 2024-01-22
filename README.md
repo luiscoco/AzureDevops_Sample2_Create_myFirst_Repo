@@ -104,4 +104,14 @@ We have to fulfill a form to request Azure DevOps Parallelism Free
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/a5aae297-2bc2-402c-9564-c04feff17e80)
 
+Another option is navigate to **Organization Settings** and press on the **Set up billing**
+
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/a5239bff-401b-43bc-b510-5494f3646e7c)
+
+We link Azure DevOps billing to our **Azure Subscription**
+
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/044b08a5-06af-4847-a36e-1273fb5e96b8)
+
+
+
 
