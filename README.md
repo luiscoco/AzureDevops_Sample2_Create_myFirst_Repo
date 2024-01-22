@@ -114,7 +114,7 @@ https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/ca39d007-3524-4946-af12-27bb22ef9b38)
 
-
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/38223144-1c9e-4cb2-8efe-166bab08f263)
 
 Another option is navigate to **Organization Settings** and press on the **Set up billing**
 
