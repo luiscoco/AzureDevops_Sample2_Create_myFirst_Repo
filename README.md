@@ -1,4 +1,4 @@
-# Azure DevOps: How to create my first repo and run a pipeline (.NET 8 WebAPI)
+# Azure DevOps: How to create my first repo and run a pipeline (we create a new .NET 8 WebAPI in VSCode and Visual Studio 2022)
 
 ## 1. How to create a new repo in my Azure DevOps project
 
