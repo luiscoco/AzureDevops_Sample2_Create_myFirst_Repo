@@ -67,6 +67,40 @@ or
 
 ## 3. Initialize a local git repo, add files, commit changes and push changes to the Azure DevOps repo
 
+**Initialize a Git repository**:
+
+```
+git init
+```
+
+**Add your project files to the repository**:
+
+```
+git add .
+```
+
+**Commit your changes**:
+
+```
+git commit -m "Initial commit"
+```
+
+**Go to your Azure DevOps project**:
+
+Navigate to your **Azure DevOps portal**. Go to the **Repos** section of your project.
+
+Create a **new repository** (if you haven't already)
+
+**Git command to push** an existing repository from the command line:
+
+```
+git remote add origin <Your-Azure-DevOps-Repo-URL>
+git branch -M main
+git push -u origin main
+```
+
+We verify the new Azure repo with all the pushed changes
+
 
 
 ## 4. How to create a new repo in Visual Studio 2022 Community Edition and push the code to Azure DevOps repo
