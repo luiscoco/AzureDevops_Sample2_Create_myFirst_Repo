@@ -86,4 +86,7 @@ We click on **Save and run** button
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/3e0c0717-b227-4242-8f66-59dad7b97e2b)
 
+We verify the job is running
+
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/669a3dbe-899e-4dcc-8a42-5b81f6f10b28)
 
