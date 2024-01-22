@@ -47,3 +47,39 @@ We click on the drop-down list and select MyWebApi repo
 We click on the **Set up build** button
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/9abbb4f8-9974-441d-8918-b7358a97b12c)
+
+We click on the **Starter pipeline** option
+
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/26fff28d-f475-4c8f-952e-808049cff72f)
+
+We copy the pipeline yaml file content 
+
+```yaml
+trigger:
+- master
+
+pool:
+  vmImage: 'windows-latest'
+
+steps:
+- task: UseDotNet@2
+  inputs:
+    version: '8.x'
+    includePreviewVersions: true # Set to true if .NET 8 is still in preview
+
+- script: dotnet restore
+  displayName: 'dotnet restore'
+
+- script: dotnet build --configuration Release
+  displayName: 'dotnet build'
+
+- script: dotnet test --configuration Release --logger trx
+  displayName: 'dotnet test'
+
+- script: dotnet publish --configuration Release --output publishOutput
+  displayName: 'dotnet publish'
+```
+
+We click on **Save and run** button
+
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/419b81c6-4fb3-40dd-9809-6f4c80d5ef44)
