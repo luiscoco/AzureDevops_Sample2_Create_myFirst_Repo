@@ -250,9 +250,9 @@ Another option is navigate to **Organization Settings** and press on the **Set u
 
 We link Azure DevOps billing to our **Azure Subscription**
 
-![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/044b08a5-06af-4847-a36e-1273fb5e96b8)
+![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/1b3755f4-f8d4-41a0-9529-dedec8dec239)
 
-After linking our Azure Subscription to Azure DevOps we can set the MS Hoste Parallel job to 1
+After linking our Azure Subscription to Azure DevOps we can set the **MS Hoste Parallel job** to **1**
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/5d6c3e3d-d408-42d9-b853-7b013587f7af)
 
