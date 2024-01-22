@@ -90,3 +90,13 @@ We verify the job is running
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/669a3dbe-899e-4dcc-8a42-5b81f6f10b28)
 
+We get this error message¨:
+
+"##[error]No hosted parallelism has been purchased or granted. 
+
+To request a free parallelism grant, please fill out the following form https://aka.ms/azpipelines-parallelism-request"
+
+If we navigate to this URL: https://aka.ms/azpipelines-parallelism-request
+
+
+
