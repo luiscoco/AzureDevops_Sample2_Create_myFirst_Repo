@@ -16,7 +16,7 @@ We input the repository type, repo name and gitignore file, then we press the cr
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/14d6f476-a0d3-4f01-9d61-f02aad3fa9f5)
 
-Pay attention the new repo will be initialized with a **main** branch, but when after we will push our code from VSCode to the **master** branch
+Pay attention the new repo will be initialized with a **main** branch
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample2_Create_myFirst_Repo/assets/32194879/3b635d55-3706-4ca8-aec9-61da95fc4a70)
 
@@ -112,6 +112,8 @@ git remote add origin https://luiscocoenriquez@dev.azure.com/luiscocoenriquez/my
 git branch -M main
 git push -u origin main
 ```
+
+IMPORTANT NOTE: if you've initialized your Azure DevOps repository with some files (like a **README.md** or any other file) that your local repository doesn't have. 
 
 We verify the new Azure repo with all the pushed changes
 
